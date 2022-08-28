@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+#this project - I have an HTML page with style and I'm converting it to a React project
 
 
 https://comforting-mooncake-e6316f.netlify.app
